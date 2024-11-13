@@ -1,3 +1,5 @@
 # Web
 .vs/
 .git/
+/LogMasker/bin/
+/LogMasker/obj/
